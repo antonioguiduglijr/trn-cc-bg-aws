@@ -51,4 +51,4 @@ AWS [Amazon Web Services] is one of the largest cloud computing companies, with 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@josecarlosbarbosa](https://github.com/josecarlosbarbosa) - Head of Content & Instructor of Engenharia de Dados
+- [@josecarlosbarbosa](https://github.com/josecarlosbarbosa) - Professor of Engenharia de Dados
