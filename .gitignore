@@ -7,6 +7,9 @@
 out/
 local.properties
 
+# pem
+owshq-emr-key-777696598735.pem
+
 # Python related
 venv
 __pycache__
